@@ -75,33 +75,33 @@ _Last updated: OKTOBER 2026_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=F4A6C0&icon_color=8FB8E8&text_color=3D4A6B&ring_color=F4A6C0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=F4A6C0&text_color=3D4A6B" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=firdahanaa&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=F4A6C0&icon_color=8FB8E8&text_color=3D4A6B&ring_color=F4A6C0" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdahanaa&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=F4A6C0&text_color=3D4A6B" alt="Most used languages" />
 </p>
 
 ## 🔥 Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=FFF8FB&ring=F4A6C0&fire=F9C6D9&currStreakLabel=8FB8E8&sideLabels=3D4A6B&currStreakNum=3D4A6B&sideNums=3D4A6B&dates=8FB8E8" alt="Contributions and streaks" />
+  <img src="https://streak-stats.demolab.com?user=firdahanaa&hide_border=true&background=FFF8FB&ring=F4A6C0&fire=F9C6D9&currStreakLabel=8FB8E8&sideLabels=3D4A6B&currStreakNum=3D4A6B&sideNums=3D4A6B&dates=8FB8E8" alt="Contributions and streaks" />
 </p>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=FFF8FB&color=F4A6C0&line=8FB8E8&point=F9C6D9&area=true&area_color=BFE0F5&hide_border=true" width="100%" alt="Contribution time series" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=firdahanaa&bg_color=FFF8FB&color=F4A6C0&line=8FB8E8&point=F9C6D9&area=true&area_color=BFE0F5&hide_border=true" width="100%" alt="Contribution time series" />
 
 <p align="center">✿ ✿ ✿</p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=firdahanaa&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <!-- Butuh workflow .github/workflows/snake.yml (file terpisah) dan branch "output" -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/firdahanaa/firdahanaa/output/github-snake.svg" alt="Contribution snake" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F9C6D9,BFE0F5&height=120&section=footer&reversal=true" width="100%"/>
