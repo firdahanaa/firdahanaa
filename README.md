@@ -110,6 +110,3 @@ _Last updated: OKTOBER 2026_
   <i>"Do it for fun."</i> 🌸
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=F4A6C0&style=flat-square" alt="Profile views" />
-</p>
