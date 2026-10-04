@@ -16,7 +16,7 @@
 
 - 🎓 Information Systems student @ Universitas Gunadarma
 - 🧪 Computer lab assistant
-- 🤝 Project Manager
+- 🤝 Project Manager and System Anakyst
 - 🌱 Currently learning AI Engineering 
 
 <p align="center">✿ ✿ ✿</p>
@@ -39,13 +39,9 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-F9C6D9?style=for-the-badge&logo=obsidian&logoColor=3D4A6B)
 ![UML](https://img.shields.io/badge/UML%20%26%20SRS-BFE0F5?style=for-the-badge&logoColor=3D4A6B)
 
-<!-- Ubah/hapus badge sesuai skill yang benar-benar kamu kuasai -->
-
 <p align="center">✿ ✿ ✿</p>
 
 ## 🔨 Currently Building
-
-> _Update section ini tiap beberapa minggu supaya profil terasa hidup._
 
 | Status | Project | Catatan |
 |:--:|---|---|
